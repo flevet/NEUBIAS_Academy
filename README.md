@@ -1,7 +1,7 @@
 # Neubias Academy 2020
 ## A guided tour for analyzing and quantifying single-molecule localization microscopy data
 
-![](imgs/stardist_img.png)
+![](imgs/tesseler.png)
 
 ### Webinar
 
